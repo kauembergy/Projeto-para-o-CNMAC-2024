@@ -1,0 +1,1 @@
+Esse projeto é um projeto feito para o CNMAC(Congresso Nacional de Matemática Aplicada e Computacional 2024), onde visa automatizar os cálculos do método de tomada de decisão em um grafo fuzzy 3-dimencional para escolha de melhor trajeto
