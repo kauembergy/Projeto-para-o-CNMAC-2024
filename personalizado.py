@@ -4,6 +4,7 @@ from customtkinter import CTkFont
 from tkinter import messagebox
 import numpy as np
 import pandas as pd
+from calculo import calcular
 
 # Definir tema e cores
 customtkinter.set_appearance_mode("dark")
